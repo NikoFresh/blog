@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://blog-bpy.pages.dev'
 languageCode = 'it-IT'
 title = 'Nicolò Frescura'
 theme = 'PaperMod'
