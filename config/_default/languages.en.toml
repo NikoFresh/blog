@@ -1,7 +1,7 @@
-languageCode = "it"
-languageName = "Italian"
+languageCode = "en"
+languageName = "English"
 languageDirection = "ltr"
-weight = 1
+weight = 2
 
 title = "NikoFresh"
 # copyright = "Copy, _right?_ :thinking_face:"
